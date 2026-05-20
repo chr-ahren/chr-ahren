@@ -67,7 +67,7 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,bootstrap5" />
   </a>
 </p>
 
