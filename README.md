@@ -43,39 +43,23 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 
 <footer> 
  
+## 🛠️ Languages and Tools
+
 ---
-  
-### 🖥️ Frontend & Backend
+
+### 🖥️ Frontend, Backend & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,fastapi,laravel,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash" />
   </a>
 </p>
 
 ---
 
-### 🗄️ Database Management
+### 🗄️ Databases, Cybersecurity & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,mongodb" />
-  </a>
-</p>
-
----
-
-### 🛡️ Cybersecurity & Operating Systems
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali" />
-  </a>
-</p>
-
----
-
-### 🧰 Tools & DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,mongodb,linux,kali,git,github,docker,vscode" />
   </a>
 </p>
 
