@@ -39,7 +39,7 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,py,spring,fastapi,nestjs" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,py,fastapi" />
   </a>
 </p>
 
