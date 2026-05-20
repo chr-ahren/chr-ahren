@@ -6,7 +6,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <br><br>
-# Saludos, soy Christian Ahren! 👋
+# Saludos, soy Ahren Churta! 👋
 
 [![LinkedIn](https://img.shields.io/badge/chr--ahren-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
 [![Email](https://img.shields.io/badge/chr.ahren@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@email.com)
