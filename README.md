@@ -42,10 +42,12 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 
 <footer> 
 
+---
+
 ### 🖥️ Frontend, Backend & Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,fastapi,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,php,laravel" />
   </a>
 </p>
 
@@ -54,7 +56,7 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 ### 🗄️ Databases, Cybersecurity & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mssql,mysql,postgres,mongodb,linux,kali,git,github,docker,vscode" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mssql,linux,kali,git,github,docker,vscode" />
   </a>
 </p>
 
