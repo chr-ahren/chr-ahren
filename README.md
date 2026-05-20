@@ -32,55 +32,33 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 </body>
 
 <footer>
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+## 🛠️ Languages and Tools:
 
-<h3 align="left">Languages and Tools:</h3>
-
-- Backend
+* ### 🖥️ Backend / Programming
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,py,fastapi" />
+    <img src="https://skillicons.dev/icons?i=py,bash,js,html,css" />
   </a>
 </p>
 
-- Frontend
+* ### 🗄️ Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=mssql,mysql,mongodb,postgres" />
   </a>
 </p>
 
-- Database
+* ### 🛡️ Cybersecurity & Systems
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,mssql" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,wireshark" />
   </a>
 </p>
 
-- Cloud Servers
+* ### 🧰 Tools & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
   </a>
 </p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,linux,bootstrap" />
-  </a>
-</p>
-
-<br/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<br>
-<p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
-
 </footer>
