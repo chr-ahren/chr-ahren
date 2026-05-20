@@ -68,5 +68,6 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
   </a>
 </p>
+
 ---
 </footer>
