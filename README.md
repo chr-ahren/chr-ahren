@@ -8,14 +8,27 @@
 
 </header>
 <body>
-  <br><br>
-Soy un Desarrollo TI & Entusiasta de la Ciberseguridad & gestión de bases de datos SQL Server. Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditorías de seguridad para proteger activos digitales. Combino la administración de sistemas e infraestructura TI con el análisis de vulnerabilidades para asegurar que los entornos de desarrollo sean estables y confiables. Fuera de mis proyectos principales, me gusta investigar sobre automatización y optimización de redes.
+---
+
+Soy un **Desarrollador TI**, **Entusiasta de la Ciberseguridad** y **Gestor de Bases de Datos SQL Server**. 
+
+Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditorías de seguridad para proteger activos digitales. Combino la administración de sistemas e infraestructura TI con el análisis de vulnerabilidades para asegurar que los entornos de desarrollo sean estables y confiables. Fuera de mis proyectos principales, me gusta investigar sobre automatización y optimización de redes.
+
+---
+
+### 🚀 Lo que estoy haciendo actualmente
 
 * 📚 Actualmente estoy profundizando mis conocimientos en análisis de malware y hacking ético.
+
 * 🛡️ He desarrollado laboratorios virtuales controlados para simular auditorías de seguridad y pruebas de penetración.
+
 * 💻 Estoy trabajando en proyectos personales de automatización de tareas de TI utilizando scripts.
+
 * 🌱 Busco familiarizarme más con entornos de nube segura y arquitecturas DevSecOps.
-* ⚡ Dato curioso: Me apasiona desarmar y optimizar hardware antiguo para darle una segunda vida útil como servidores domésticos.
+
+* ⚡ **Dato curioso:** Me apasiona desarmar y optimizar hardware antiguo para darle una segunda vida útil como servidores domésticos.
+
+---
 </body>
 
 <footer>
