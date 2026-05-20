@@ -4,16 +4,9 @@
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<br><br>
 # Saludos, soy Ahren Churta! 👋
-
-[![LinkedIn](https://img.shields.io/badge/chr--ahren-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/chr.ahren@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@email.com)
-[![GitHub](https://img.shields.io/badge/chr--ahren.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chr-ahren)
-
+<br><br>
 ---
-
 Soy un **Desarrollo TI & Entusiasta de la Ciberseguridad**. Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditorías de seguridad para proteger activos digitales. Combino la administración de sistemas e infraestructura TI con el análisis de vulnerabilidades para asegurar que los entornos de desarrollo sean estables y confiables. Fuera de mis proyectos principales, me gusta investigar sobre automatización y optimización de redes.
 
 * 📚 Actualmente estoy profundizando mis conocimientos en análisis de malware y hacking ético.
