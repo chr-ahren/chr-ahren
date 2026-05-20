@@ -48,7 +48,7 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 ### 🖥️ Frontend & Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,fastapi,laravel,php" />
   </a>
 </p>
 
