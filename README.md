@@ -53,7 +53,7 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,mssql" />
   </a>
 </p>
 
