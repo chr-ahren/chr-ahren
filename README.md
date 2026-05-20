@@ -3,8 +3,8 @@
   <img width="10240" height="2560" alt="Image_2" src="https://github.com/user-attachments/assets/4e18769a-4758-4776-8f1d-37c460d5e445" alt="Banner de mi perfil" width="100%" />
 </p>
 
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
- Saludos, soy Ahren Churta! 👋
+ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me.
+ Saludos, soy Ahren Churta! 
 
 </header>
 <body>
