@@ -2,11 +2,13 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e0da217c-de8b-4986-97a9-6fb492e5fd32" alt="Banner de mi perfil" width="100%" />
 </p>
----
+
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
  Saludos, soy Ahren Churta! 👋
-<br><br>
+ 
+<br>
 Soy un **Desarrollo TI & Entusiasta de la Ciberseguridad**. Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditorías de seguridad para proteger activos digitales. Combino la administración de sistemas e infraestructura TI con el análisis de vulnerabilidades para asegurar que los entornos de desarrollo sean estables y confiables. Fuera de mis proyectos principales, me gusta investigar sobre automatización y optimización de redes.
+<br>
 
 * 📚 Actualmente estoy profundizando mis conocimientos en análisis de malware y hacking ético.
 * 🛡️ He desarrollado laboratorios virtuales controlados para simular auditorías de seguridad y pruebas de penetración.
