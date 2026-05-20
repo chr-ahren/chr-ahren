@@ -34,6 +34,7 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 <footer> My Statistics
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">
 ---
+  
 ### 🖥️ Frontend & Backend
 <p align="left">
   <a href="https://skillicons.dev">
@@ -42,6 +43,7 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 </p>
 
 ---
+
 ### 🗄️ Database Management
 <p align="left">
   <a href="https://skillicons.dev">
@@ -50,6 +52,7 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 </p>
 
 ---
+
 ### 🛡️ Cybersecurity & Operating Systems
 <p align="left">
   <a href="https://skillicons.dev">
