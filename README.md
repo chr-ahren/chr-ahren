@@ -46,7 +46,7 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs" />
   </a>
 </p>
 
