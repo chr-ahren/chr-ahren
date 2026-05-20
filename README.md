@@ -7,11 +7,12 @@
 
 # ¡Saludos! Me llamo Ahren Churta 👋
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me Icon" /> Sobre mí
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" style="vertical-align: middle; margin-right: 10px;"> <span style="vertical-align: middle; font-size: 24px; font-weight: bold;">Sobre mí</span>
 
 
 </header>
 <body>
+  
 ¡Hola! Bienvenidos a mi perfil. **Desarrollador TI**, **Entusiasta de la Ciberseguridad** y **Gestor de Bases de Datos SQL Server**. 
 
 Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditorías de seguridad para proteger activos digitales. Combino la administración de sistemas e infraestructura TI con el análisis de vulnerabilidades para asegurar que los entornos de desarrollo sean estables y confiables. Fuera de mis proyectos principales, me gusta investigar sobre automatización y optimización de redes.
