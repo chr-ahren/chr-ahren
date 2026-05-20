@@ -9,13 +9,12 @@
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me Icon" />
 
-### 🚀 Sobre mí
-¡Hola! Bienvenidos a mi perfil. (Aquí puedes agregar una breve descripción de una o dos líneas sobre lo que haces, tus tecnologías favoritas o tus metas).
 
 </header>
 <body>
 
-Soy un **Desarrollador TI**, **Entusiasta de la Ciberseguridad** y **Gestor de Bases de Datos SQL Server**. 
+### 🚀 Sobre mí
+¡Hola! Bienvenidos a mi perfil. **Desarrollador TI**, **Entusiasta de la Ciberseguridad** y **Gestor de Bases de Datos SQL Server**. 
 
 Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditorías de seguridad para proteger activos digitales. Combino la administración de sistemas e infraestructura TI con el análisis de vulnerabilidades para asegurar que los entornos de desarrollo sean estables y confiables. Fuera de mis proyectos principales, me gusta investigar sobre automatización y optimización de redes.
 
