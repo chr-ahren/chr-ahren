@@ -5,8 +5,12 @@
   
 ---
 
- <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me.
- Saludos, me llamo Ahren Churta! 
+# ¡Saludos! Me llamo Ahren Churta 👋
+
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" alt="About Me Icon" />
+
+### 🚀 Sobre mí
+¡Hola! Bienvenidos a mi perfil. (Aquí puedes agregar una breve descripción de una o dos líneas sobre lo que haces, tus tecnologías favoritas o tus metas).
 
 </header>
 <body>
