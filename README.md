@@ -40,12 +40,7 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 </p>
 
 
-
 <footer> 
- 
-## 🛠️ Languages and Tools
-
----
 
 ### 🖥️ Frontend, Backend & Frameworks
 <p align="left">
