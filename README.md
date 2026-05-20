@@ -29,6 +29,7 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 * ⚡ **Dato curioso:** Me apasiona desarmar y optimizar hardware antiguo para darle una segunda vida útil como servidores domésticos.
 
 ---
+
 </body>
 
 <footer> My Statistics
