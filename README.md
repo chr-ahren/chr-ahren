@@ -37,7 +37,7 @@ Me dedico a diseñar soluciones tecnológicas eficientes y a implementar auditor
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" valign="middle"> Resumen de Mi Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub de TU_USUARIO" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chr-ahren&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de chr-ahren" />
 </p>
 
 ---
