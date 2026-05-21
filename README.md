@@ -1,25 +1,18 @@
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4e18769a-4758-4776-8f1d-37c460d5e445" alt="Banner de perfil" width="100%" />
 </p>
 
-<h1 align="center">Ahren Churta</h1>
-
-<p align="center">
-  <strong>Desarrollador TI · Ciberseguridad · Administración SQL Server</strong>
-</p>
-
 <p align="center">
   <a href="https://linkedin.com/in/ahren-kahi-churta-9b562537a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/─%20LinkedIn%20─-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  &nbsp;
+  &ensp;
   <a href="mailto:ahrenchurta@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/─%20Outlook%20─-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&labelColor=0078D4" />
   </a>
-  &nbsp;
+  &ensp;
   <a href="https://github.com/chr-ahren">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/─%20chr--ahren%20─-161B22?style=flat&logo=github&logoColor=white&labelColor=161B22" />
   </a>
 </p>
 
