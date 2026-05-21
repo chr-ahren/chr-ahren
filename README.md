@@ -16,32 +16,48 @@
   </a>
 </p>
 
+<br>
+
 ---
 
-## Sobre mí
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="58%" valign="top">
 
-Diseño soluciones tecnológicas eficientes e implemento auditorías de seguridad para proteger activos digitales. Combino administración de infraestructura TI con análisis de vulnerabilidades para mantener entornos estables y confiables.
+### `$ whoami`
 
-Actualmente enfocado en:
+Ingeniero de Sistemas enfocado en diseñar infraestructura TI robusta, gestionar bases de datos SQL Server y ejecutar auditorías de seguridad. Trabajo en la intersección entre **administración de sistemas** y **análisis de vulnerabilidades** para mantener entornos estables, seguros y confiables.
 
-- 🔬 Análisis de malware y hacking ético
-- 🛡️ Laboratorios virtuales para pruebas de penetración y auditorías de seguridad
-- ⚙️ Automatización de tareas TI mediante scripting
-- ☁️ Arquitecturas DevSecOps y entornos de nube segura
+</td>
+<td width="4%"></td>
+<td width="38%" valign="top">
 
-> *Fuera del trabajo: me apasiona optimizar hardware antiguo y darle vida como servidores domésticos.*
+### `$ current --focus`
+
+```
+▸ Análisis de malware & hacking ético
+▸ Pentesting en laboratorios virtuales
+▸ Automatización TI con scripting
+▸ Arquitecturas DevSecOps & nube segura
+```
+
+</td>
+</tr>
+</table>
+
+> 💡 *Fuera del trabajo: optimizo hardware antiguo y lo repropongo como servidores domésticos.*
 
 ---
 
 ## Stack Tecnológico
 
-**Frontend, Backend & Scripting**
+**`Frontend · Backend · Scripting`**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,php,laravel&theme=dark" />
 </p>
 
-**Bases de Datos, Ciberseguridad & DevOps**
+**`Bases de Datos · Ciberseguridad · DevOps`**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,linux,kali,git,github,docker,vscode&theme=dark" />
