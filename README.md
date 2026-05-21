@@ -54,7 +54,7 @@ Ingeniero de Sistemas enfocado en diseñar infraestructura TI robusta, gestionar
 **`Frontend · Backend · Scripting`**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,php,laravel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,php,fastapi,laravel&theme=dark" />
 </p>
 
 **`Bases de Datos · Ciberseguridad · DevOps`**
