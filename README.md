@@ -7,8 +7,8 @@
     <img src="https://img.shields.io/badge/─%20LinkedIn%20─-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   &ensp;
-  <a href="mailto:ahrenchurta@outlook.com">
-    <img src="https://img.shields.io/badge/─%20Outlook%20─-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&labelColor=0078D4" />
+  <a href="mailto:ahrenchurta@outlook.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/─%20ahrenchurta%40outlook.com%20─-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&labelColor=0078D4" />
   </a>
   &ensp;
   <a href="https://github.com/chr-ahren">
