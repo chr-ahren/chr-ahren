@@ -34,12 +34,12 @@ Ingeniero de Sistemas enfocado en diseñar infraestructura TI robusta, gestionar
 
 ### `$ current --focus`
 
-| &nbsp; | &nbsp; |
-|:---:|---|
-| 🦠 | Análisis de malware & hacking ético |
-| 🛡️ | Pentesting en laboratorios virtuales |
-| ⚙️ | Automatización TI con scripting |
-| ☁️ | Arquitecturas DevSecOps & nube segura |
+| | |
+|:---:|:---|
+| 🔬 | Análisis de malware & hacking ético |
+| 🔐 | Pentesting en laboratorios virtuales |
+| ⚡ | Automatización TI con scripting |
+| 🌐 | Arquitecturas DevSecOps & nube segura |
 
 </td>
 </tr>
