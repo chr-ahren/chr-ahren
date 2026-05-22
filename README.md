@@ -32,8 +32,6 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/chr--ahren-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chr-ahren)
 &nbsp;
-![Location](https://img.shields.io/badge/Cali%2C_Colombia-21262D?style=for-the-badge&labelColor=21262D&logo=googlemaps&logoColor=white)
-&nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=chr-ahren&style=for-the-badge&color=0D1117&label=PROFILE+VIEWS)
 
 </div>
