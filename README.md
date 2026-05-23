@@ -203,13 +203,13 @@ Repurposed hardware running a fully containerized home lab: reverse proxy, Uptim
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=chr-ahren&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B949E&icon_color=6E7681&text_color=6E7681&rank_icon=github&v=1"
+  src="https://github-readme-stats.shion.dev/api?username=chr-ahren&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B949E&icon_color=6E7681&text_color=6E7681&rank_icon=github"
   height="170"
   alt="GitHub Stats"
 />
 &nbsp;&nbsp;
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chr-ahren&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B949E&text_color=6E7681&langs_count=8&v=1"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=chr-ahren&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B949E&text_color=6E7681&langs_count=8"
   height="170"
   alt="Top Languages"
 />
