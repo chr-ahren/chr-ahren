@@ -5,7 +5,6 @@
 
 <div align="center">
 <img width="4000" height="1250" alt="banner_v5_10_of_10" src="https://github.com/user-attachments/assets/5061afb7-d8df-4ec8-9426-85b269160ddd" />
-/>
 
 </div>
 
