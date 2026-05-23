@@ -4,9 +4,7 @@
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  
-<img width="4000" height="1250" alt="banner_preview_ahren" src="https://github.com/user-attachments/assets/66672457-acc6-47f4-9b8b-f45b73543e12"
-  alt="Ahren Churta — Systems Engineer · Security & Infrastructure"
+<img width="4000" height="1250" alt="banner_v5_10_of_10" src="https://github.com/user-attachments/assets/5061afb7-d8df-4ec8-9426-85b269160ddd" />
 />
 
 </div>
