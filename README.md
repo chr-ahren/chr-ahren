@@ -4,7 +4,7 @@
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img width="1376" height="768" alt="continue-refining-the-existing-github-ba_-XEelU75XqWNghvaUoBDpw_CikGoc_qShmyVtb_JBLRww_sd" src="https://github.com/user-attachments/assets/3ed83adb-5733-48cf-9dce-00cc5c64b68c" />
+<img width="1369" height="768" alt="continue-refining-the-existing-github-ba_ccxETdz_VCCJfKCa_GuZMA_CikGoc_qShmyVtb_JBLRww_sd" src="https://github.com/user-attachments/assets/41d3e271-0442-4e44-9d6a-1d6511d560d0" />
 </div>
 
 <br/>
