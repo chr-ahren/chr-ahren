@@ -4,7 +4,7 @@
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img width="1736" height="575" alt="Screenshot From 2026-05-24 22-39-05" src="https://github.com/user-attachments/assets/e26b81ce-8ab0-4824-84c8-13769c1048ae" />
+<img width="1792" height="592" alt="Banner HD Alta Calidad 1500x500-1" src="https://github.com/user-attachments/assets/2ba6ef47-75ea-48cc-87c9-446de0609dac" />
 </div>
 
 <br/>
