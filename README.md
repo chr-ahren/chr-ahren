@@ -1,10 +1,10 @@
-<!-- ═══════════════════════════════════════════════════════════════
+<img width="1584" height="672" alt="Enhanced High Quality Banner-1" src="https://github.com/user-attachments/assets/37404422-8aa0-4c41-88df-66e08b3b182a" /><!-- ═══════════════════════════════════════════════════════════════
      chr-ahren / chr-ahren · Profile README
      SETUP: Upload banner.svg to the root of this repository.
      ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img width="1792" height="592" alt="Banner HD Alta Calidad 1500x500-1" src="https://github.com/user-attachments/assets/2ba6ef47-75ea-48cc-87c9-446de0609dac" />
+<img width="1584" height="672" alt="Enhanced High Quality Banner-1" src="https://github.com/user-attachments/assets/9ffc9a42-857a-460d-88ca-44225eb6d730" />
 </div>
 
 <br/>
